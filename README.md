@@ -1,7 +1,7 @@
 ## Hello, I'm Alin! 👋
 
 ## 🌍 About Me
-  I am passionate about the IT field, with a particular focus on frontend development. I consider myself a creative and innovative individual, always eager to explore new technologies and approaches. I also have a keen interest in backend development, especially in tackling problem-solving and scalability challenges. I am about to enter my third year of undergraduate studies at the Faculty of Cybernetics, Statistics, and Economic Informatics at the Bucharest Academy of Economic Studies, where I am specializing in Economic Informatics.
+  I am passionate about the IT field, with a particular focus on frontend development. I consider myself a creative and innovative individual, always eager to explore new technologies and approaches. I also have a keen interest in backend development, especially in tackling problem-solving and scalability challenges. I am about to enter my third year of undergraduate studies at the Faculty of Cybernetics, Statistics, and Economic Informatics at the Bucharest Academy of Economic Studies, where I am specializing in Economic Informatics.You can find more information about me on the following link: https://andreialin1.github.io/Cv-Andrei-Alin/
   
 ## 🛠 Technologies and Abilities
 
@@ -13,6 +13,8 @@
 ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Php](<a href="https://www.php.net" target="_blank" rel="noreferrer">)
 
 ## 📫 Cum mă poți contacta
 
