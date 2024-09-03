@@ -21,3 +21,4 @@
 - ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white) [Gmail](mailto:alinandrei0303@gmail.com)
 - ![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white) [Facebook](https://www.facebook.com/alin.andrei.1804?locale=ro_RO)
 - ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white) [Instagram](https://www.instagram.com/alin_andrei03/)
+- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white) [LinkedIn](https://www.linkedin.com/in/alin-andrei-6969a4324/)
