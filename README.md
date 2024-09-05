@@ -5,10 +5,10 @@
   
 ## 🛠 Technologies and Abilities
 
-![Java](https://img.shields.io/badge/Java-F7DF1E?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-F7DF1E?style=flat-square&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-00000F?style=flat-square&logo=sqlite&logoColor=white)
 ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
