@@ -23,7 +23,4 @@
 - ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white) [Instagram](https://www.instagram.com/alin_andrei03/)
 - ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white) [LinkedIn](https://www.linkedin.com/in/alin-andrei-6969a4324/)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AndreiAlin1&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AndreiAlin1&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreiAlin1&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
