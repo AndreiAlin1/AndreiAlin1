@@ -16,6 +16,11 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Php](https://img.shields.io/badge/PHP-4F5B93?logo=php)
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AndreiAlin1&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AndreiAlin1&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreiAlin1&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
 ## 📫 Cum mă poți contacta
 
 - ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white) [Gmail](mailto:alinandrei0303@gmail.com)
