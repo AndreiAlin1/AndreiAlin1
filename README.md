@@ -1,7 +1,4 @@
-## Hello, I'm Alin! 👋
-
-## 🌍 About Me
-  I am passionate about the IT field, with a particular focus on frontend development. I consider myself a creative and innovative individual, always eager to explore new technologies and approaches. I also have a keen interest in backend development, especially in tackling problem-solving and scalability challenges. I am about to enter my third year of undergraduate studies at the Faculty of Cybernetics, Statistics, and Economic Informatics at the Bucharest Academy of Economic Studies, where I am specializing in Economic Informatics.You can find more information about me on the following link: https://andreialin1.github.io/Cv-Andrei-Alin/
+https://andreialin1.github.io/Cv-Andrei-Alin/
   
 ## 🛠 Technologies and Abilities
 
